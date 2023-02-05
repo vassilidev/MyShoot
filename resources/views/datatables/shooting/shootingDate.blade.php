@@ -1,0 +1,1 @@
+{{ $model->shooting_date->format('d/m/Y') }}
